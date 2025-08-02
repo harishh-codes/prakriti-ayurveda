@@ -158,6 +158,7 @@ function App() {
       <nav className="navbar">
         <div className="nav-container">
           <div className="nav-brand">
+            <img src="/website_logo.png" alt="Prakriti Ayurveda Logo" className="nav-logo" />
             <span className="brand-text">PRAKRITI AYURVEDA</span>
           </div>
           <button className="menu-toggle" onClick={toggleMenu}>
@@ -171,6 +172,7 @@ function App() {
       {/* Hero Section */}
       <section className="hero">
         <div className="hero-content">
+          
           <h1 className="hero-title">
             <span className="dot-text">NATURAL SKINCARE</span>
             <span className="dot-text">FROM ANCIENT WISDOM</span>
@@ -233,9 +235,9 @@ function App() {
             />
             <TeamMember 
               number="03"
-              name="Sudheer Desai"
+              name="Anjali Desai"
               title="Quality Assurance"
-              imageUrl="https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=200&h=200&fit=crop&crop=face"
+              imageUrl="https://images.unsplash.com/photo-1494790108755-2616b612b786?w=200&h=200&fit=crop&crop=face"
               imageAlt="Anjali Desai - Quality Assurance"
             />
             <TeamMember 
@@ -316,6 +318,7 @@ function App() {
         <div className="menu-overlay">
           <div className="menu-left-panel">
             <div className="agency-brand">
+              <img src="/website_logo.png" alt="Prakriti Ayurveda Logo" className="menu-logo" />
               <span>PRAKRITI AYURVEDA</span>
             </div>
           </div>
@@ -358,6 +361,7 @@ function App() {
         <div className="container">
           <div className="footer-content">
             <div className="footer-brand">
+              <img src="/website_logo.png" alt="Prakriti Ayurveda Logo" className="footer-logo" />
               <span className="dot-text">PRAKRITI AYURVEDA</span>
             </div>
             <div className="footer-links">
