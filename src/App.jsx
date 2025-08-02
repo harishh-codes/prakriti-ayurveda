@@ -377,7 +377,7 @@ function App() {
             </div>
           </div>
           <div className="footer-bottom">
-            <p>&copy; 2024 Prakriti Ayurveda. All rights reserved.</p>
+            <p>&copy; 2025 Prakriti Ayurveda. All rights reserved.</p>
           </div>
         </div>
       </footer>
